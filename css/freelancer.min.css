@@ -38,7 +38,7 @@
  section.success{background:#18BC9C;color:#fff}
  @media (max-width:767px){section{padding:75px 0}
  section.first{padding-top:75px}}
- #profile-pic{border-radius: 100px; }
+ #profile-pic{border-radius: 20px; }
  .img-responsive.portfolio-pic{width: 100%;}
  #portfolio .portfolio-item{margin:0 0 15px;right:0}
  #portfolio .portfolio-item .portfolio-link{display:block;position:relative;max-width:400px;margin:0 auto}
